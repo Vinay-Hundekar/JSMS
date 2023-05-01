@@ -1,2 +1,2 @@
 # JSMS
-Jewellery Shop Management System -frontend  using Bootstrap
+Simple frontend design of Jewellery Shop Management System frontend design using bootstrap
